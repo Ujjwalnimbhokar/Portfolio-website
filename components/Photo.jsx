@@ -13,7 +13,7 @@ const Photo=()=>{
       }}>
         <motion.div className="w-[310px] h-[260px] xl:w-[310px] xl:h-[260px] mix-blend-lighten absolute">
           <Image 
-          src="/./assets/photo2.png" 
+          src="/images/photo.png" 
           priority 
           quality={100} 
           fill 
