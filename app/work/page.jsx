@@ -214,8 +214,8 @@ const projects = [
       "",
     stack: [{ name: "Next.js" }, { name: "Tailwind.css" },{ name: "React" }],
     image: "/images/project3.png",
-    live: "",
-    github: "",
+    live: "https://portfolio-website-eks7.vercel.app/",
+    github: "https://github.com/Ujjwalnimbhokar/Portfolio-website",
   },
   {
     num: "04",
